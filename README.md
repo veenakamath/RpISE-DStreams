@@ -1,5 +1,5 @@
 # RpISE-DStreams
 ### Distributed Streaming Framework
 
-## Design
+# Design
 ### <img src="./DStreams.svg">
